@@ -37,7 +37,7 @@
         app:layout_constraintRight_toLeftOf="@id/guideline"
         android:onClick="shareMeme"
         android:textColor="@color/white"
-        android:background="#000000"/>
+        android:background="@color/shareColor"/>
 
     <Button
         android:id="@+id/nextButton"
@@ -50,7 +50,7 @@
         app:layout_constraintLeft_toRightOf="@id/guideline"
         android:onClick="nextMeme"
         android:textColor="@color/white"
-        android:background="#000000"/>
+        android:background="@color/nextColor"/>
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
