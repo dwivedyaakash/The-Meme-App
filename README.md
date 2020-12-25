@@ -1,4 +1,4 @@
-# The-Meme-App
+# The Meme App
 
 ### An app to browse memes and share memes among your friends!
 
